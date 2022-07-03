@@ -1,0 +1,46 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #000000;
+
+  background-image: url('https://media.istockphoto.com/photos/stage-lights-red-spotlight-with-certain-through-the-darkness-picture-id857482090?b=1&k=20&m=857482090&s=170667a&w=0&h=zVWGRKYWe2IHzdR455rCjrY1-mRKIdoenmW7lFeties=');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #393431;
+  font-size: 8rem;
+  color: #fffbef;
+}
+
+p {
+  font-size: 2rem;
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #a4a0a0;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
